@@ -1,5 +1,4 @@
-HTML  JS Result
-EDIT ON
+
  class Queue {
     constructor(...items) {
         this.reverse = false;
@@ -47,5 +46,3 @@ describe("Queues", () => {
 });
 
 mocha.run();
-
-Resources 1×0.5×0.25× Rerun
